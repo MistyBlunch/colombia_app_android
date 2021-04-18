@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">countryApp</string>
+    <string name="title">Colombia App</string>
+
+    <string name="fest">Festividades</string>
+    <string name="data_text">Data</string>
+    <string name="food">Comida</string>
+
+    <string name="pbi">PBI: 331 billion USD (2018)</string>
+    <string name="poblacion">Población: 49.65 million (2018)</string>
+
+    <string name="velitas">Día de las velitas</string>
+    <string name="barranquilla">Carnaval de Barranquilla</string>
+    <string name="flores">Feria de las Flores</string>
+
+    <string name="velitas_date">Diciembre 7</string>
+    <string name="barranquilla_date">Febrero 13 - Febrero 16</string>
+    <string name="flores_date">Mayo 1</string>
+
+    <string name="paisa">Bandeja Paisa</string>
+    <string name="ajiaco">Ajiaco</string>
+    <string name="sanconcho">Sancocho</string>
+    <string name="arepa">Arepa</string>
+</resources>
